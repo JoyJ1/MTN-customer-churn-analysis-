@@ -5,9 +5,9 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Key Insights](#key-indights)
+- [Key Insights](#key-insights)
 - [Dashboard Features](#dashboard-features)
-- [Recommendation](#recommendstions)
+- [Recommendation](#recommendations)
 
 ### 📍 Project Overview
 
@@ -17,7 +17,7 @@ This project focuses on the **customer churn analysis** for MTN, one of the larg
 
 MTN churn data: The primary dataset used for this analysis is the **mtn_customer_churn.csv** file.
 
-###Tools
+### Tools
 
 - Excel - Data Preparation
 - Power bi - Data modeling and visualization
