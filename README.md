@@ -15,7 +15,7 @@ This project focuses on the **customer churn analysis** for MTN, one of the larg
 
 ### Data Sources
 
-MTN churn data: The primary dataset used for this analysis is the **mtn_customer_churn.csv** file.
+MTN churn data: The primary dataset used for this analysis is the **mtn_customer_churn.csv** file [Download here](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nigeria-customer-churn)
 
 ### Tools
 
@@ -35,7 +35,7 @@ MTN churn data: The primary dataset used for this analysis is the **mtn_customer
 - Churn Reasons - Breakdown of the main drivers behind customer churn.
 - Customer Details Page - Searchable and filterable customer level dataset including age, subscription, tenure, device and churn status.
 
-### Recommensations
+### Recommendations
 - Introduce competitive tariffs to reduce churn from high call charges.
 - Improve customer service and network quality to retain customers.
 - Target retention campaigns at the 50–59 age group, which is most at risk.
