@@ -13,6 +13,11 @@
 
 This project focuses on the **customer churn analysis** for MTN, one of the largest telecom providers. The goal is to identify the percentage of customers who stopped using their services, patterns and reasons for churn.
 
+### Overview Page
+
+### Customer Details
+
+
 ### Data Sources
 
 MTN churn data: The primary dataset used for this analysis is the **mtn_customer_churn.csv** file [Download here](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mtn-nigeria-customer-churn)
