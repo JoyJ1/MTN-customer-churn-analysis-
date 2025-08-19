@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- [Project Overview](project-overview)
-- [Data Sources](data-sources)
-- [Tools](tools)
-- [Key Insights](key-indights)
-- [Dashboard Features](dashboard-features)
-- [Recommendation](recommendstions)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Key Insights](#key-indights)
+- [Dashboard Features](#dashboard-features)
+- [Recommendation](#recommendstions)
 
 ### 📍 Project Overview
 
