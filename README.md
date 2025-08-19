@@ -16,7 +16,7 @@ This project focuses on the **customer churn analysis** for MTN, one of the larg
 ### Overview Page
 
 ### Customer Details
-
+[MTN Churn Customer Details](23f9001f-3958-4452-a9b2-bd8d89acbdd5.jpeg)
 
 ### Data Sources
 
