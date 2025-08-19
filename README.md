@@ -14,7 +14,7 @@
 This project focuses on the **customer churn analysis** for MTN, one of the largest telecom providers. The goal is to identify the percentage of customers who stopped using their services, patterns and reasons for churn.
 
 ### Overview Page
-
+![MTN Churn Overview Page](85865257-3a48-42bb-8362-9be20264e131.jpeg)
 ### Customer Details
 ![MTN Churn Customer Details](23f9001f-3958-4452-a9b2-bd8d89acbdd5.jpeg)
 
