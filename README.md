@@ -7,7 +7,7 @@
 - [Tools](#tools)
 - [Key Insights](#key-insights)
 - [Dashboard Features](#dashboard-features)
-- [Recommendation](#recommendations)
+- [Recommendations](#recommendations)
 
 ### 📍 Project Overview
 
